@@ -1,4 +1,7 @@
-- [Ademola joshua](https://github.com/kingjosh-olu) meta  Frontend development
+ademola joshua 
+lagos nigeria
+meta front-end developer
+
 Read the instructions of this file in the README.md
 
 # <b> Class List </b>
